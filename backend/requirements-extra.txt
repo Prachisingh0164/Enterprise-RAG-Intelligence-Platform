@@ -1,0 +1,3 @@
+# Optional upgrades (heavier downloads)
+sentence-transformers   # EMBED_BACKEND=st, RERANK_BACKEND=cross
+ragas datasets          # python -m rag.evaluate --ragas (needs an LLM key)

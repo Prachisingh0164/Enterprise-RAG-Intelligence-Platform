@@ -1,0 +1,33 @@
+{"question": "How many days of paid annual leave do full-time employees get?", "doc": "employee_handbook.pdf", "page": 1, "keyword": "24 days", "user_role": "employee", "restricted": false}
+{"question": "How many unused leave days can be carried over?", "doc": "employee_handbook.pdf", "page": 1, "keyword": "5 days", "user_role": "employee", "restricted": false}
+{"question": "What are the core working hours?", "doc": "employee_handbook.pdf", "page": 1, "keyword": "10:00", "user_role": "employee", "restricted": false}
+{"question": "When is a medical certificate required for sick leave?", "doc": "employee_handbook.pdf", "page": 1, "keyword": "3 consecutive days", "user_role": "employee", "restricted": false}
+{"question": "How many days per week can employees work remotely?", "doc": "employee_handbook.pdf", "page": 2, "keyword": "3 days", "user_role": "employee", "restricted": false}
+{"question": "Within how many days must travel expenses be submitted?", "doc": "employee_handbook.pdf", "page": 2, "keyword": "30 days", "user_role": "employee", "restricted": false}
+{"question": "What is the daily meal reimbursement limit for travel?", "doc": "employee_handbook.pdf", "page": 2, "keyword": "45", "user_role": "employee", "restricted": false}
+{"question": "How much is the annual learning budget per employee?", "doc": "employee_handbook.pdf", "page": 2, "keyword": "1200", "user_role": "employee", "restricted": false}
+{"question": "What is the minimum password length?", "doc": "it_security_policy.docx", "page": 1, "keyword": "14 characters", "user_role": "employee", "restricted": false}
+{"question": "Where is multi-factor authentication mandatory?", "doc": "it_security_policy.docx", "page": 1, "keyword": "vpn", "user_role": "employee", "restricted": false}
+{"question": "Within what time must a lost device be reported to the helpdesk?", "doc": "it_security_policy.docx", "page": 1, "keyword": "2 hours", "user_role": "employee", "restricted": false}
+{"question": "What encryption must company laptops use?", "doc": "it_security_policy.docx", "page": 1, "keyword": "full-disk", "user_role": "employee", "restricted": false}
+{"question": "How should phishing emails be reported?", "doc": "it_security_policy.docx", "page": 2, "keyword": "report phish", "user_role": "employee", "restricted": false}
+{"question": "What is the response time for P1 security incidents?", "doc": "it_security_policy.docx", "page": 2, "keyword": "15 minutes", "user_role": "employee", "restricted": false}
+{"question": "Are personal USB storage devices allowed on company machines?", "doc": "it_security_policy.docx", "page": 2, "keyword": "not permitted", "user_role": "employee", "restricted": false}
+{"question": "How long does approval of software installation requests take?", "doc": "it_security_policy.docx", "page": 2, "keyword": "3 business days", "user_role": "employee", "restricted": false}
+{"question": "What is the salary range of band L3?", "doc": "hr_compensation_confidential.pdf", "page": 1, "keyword": "52000", "user_role": "hr", "restricted": true}
+{"question": "What is the salary range of band L4?", "doc": "hr_compensation_confidential.pdf", "page": 1, "keyword": "92000", "user_role": "hr", "restricted": true}
+{"question": "What is the annual bonus target for L3 and L4?", "doc": "hr_compensation_confidential.pdf", "page": 1, "keyword": "10 percent", "user_role": "hr", "restricted": true}
+{"question": "When do performance reviews take place?", "doc": "hr_compensation_confidential.pdf", "page": 2, "keyword": "june and december", "user_role": "hr", "restricted": true}
+{"question": "What salary increase do Exceeds Expectations employees get?", "doc": "hr_compensation_confidential.pdf", "page": 2, "keyword": "6 percent", "user_role": "hr", "restricted": true}
+{"question": "Over how many years do stock options vest?", "doc": "hr_compensation_confidential.pdf", "page": 2, "keyword": "4 years", "user_role": "hr", "restricted": true}
+{"question": "What was Q3 revenue?", "doc": "finance_q3_report.pdf", "page": 1, "keyword": "48.2", "user_role": "finance", "restricted": true}
+{"question": "What was the gross margin in Q3?", "doc": "finance_q3_report.pdf", "page": 1, "keyword": "61 percent", "user_role": "finance", "restricted": true}
+{"question": "What were the operating expenses in Q3?", "doc": "finance_q3_report.pdf", "page": 1, "keyword": "21.4", "user_role": "finance", "restricted": true}
+{"question": "How many employees did the company have at the end of Q3?", "doc": "finance_q3_report.pdf", "page": 2, "keyword": "412", "user_role": "finance", "restricted": true}
+{"question": "How much cash did the company have at the end of the quarter?", "doc": "finance_q3_report.pdf", "page": 2, "keyword": "95.6", "user_role": "finance", "restricted": true}
+{"question": "What is the full-year revenue guidance?", "doc": "finance_q3_report.pdf", "page": 2, "keyword": "190", "user_role": "finance", "restricted": true}
+{"question": "How do I pair the X200 headset?", "doc": "product_manual.txt", "page": 1, "keyword": "5 seconds", "user_role": "employee", "restricted": false}
+{"question": "How long does the X200 battery last?", "doc": "product_manual.txt", "page": 1, "keyword": "30 hours", "user_role": "employee", "restricted": false}
+{"question": "How long does it take to fully charge the X200?", "doc": "product_manual.txt", "page": 1, "keyword": "2 hours", "user_role": "employee", "restricted": false}
+{"question": "How do I factory reset the X200?", "doc": "product_manual.txt", "page": 2, "keyword": "10 seconds", "user_role": "employee", "restricted": false}
+{"question": "How long is the X200 warranty?", "doc": "product_manual.txt", "page": 2, "keyword": "24 month", "user_role": "employee", "restricted": false}

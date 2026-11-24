@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy>=2.0
+psycopg2-binary
+pandas
+numpy
+scikit-learn
+langgraph
+qdrant-client
+pypdf
+python-docx
+reportlab
+PyJWT
+requests
+prometheus-client
